@@ -17,4 +17,4 @@ var spaghetti = function(inp)
 	return res;
 }
 
-console.log(spaghetti("spaghetti"));
+console.log(spaghetti("spaghetti")); 
