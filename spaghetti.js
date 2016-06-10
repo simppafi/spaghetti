@@ -12,9 +12,8 @@ var spaghetti = function(inp)
 
 	var exp = "";
 	for(var i=a||a&&a?a:a; i<res.length; i+=(c+d+.25+b)){exp += res[i];}
-	res = exp;
-
-	return res;
+	
+	return exp;
 }
 
 console.log(spaghetti("spaghetti")); 
