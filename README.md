@@ -5,7 +5,7 @@ Point is to demonstrate all the ways not to write code.
 
 If you wish to participate to this experiment please tweet to <b>@simppafi</b> and I'll add you.
 
-<h1>Rule 1:<h1/>
+<h1>Rule 1:</h1>
 <b>spaghetti.js contains a method called spaghetti that returns its parameter as it was given.
 so spaghetti("foo") should return "foo"</b>
 
